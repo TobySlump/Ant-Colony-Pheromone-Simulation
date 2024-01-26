@@ -1,7 +1,7 @@
 # ECM3412 Nature-Inspired Computation Coursework
 
 ## Description
-The python file - 'Ant Colony Optimisation.py' is a runnable program that outputs the best solution for the travelling saleman problem on a given city found during the runtime. 
+The python file - 'Ant Colony Optimisation.py' is a runnable program that outputs the best solution for the travelling saleman problem on a given city found during the runtime. By varying the parameters I was able to optimally tune the algorithm's exploration vs exploitation feature, the report file contains analysis of the results in addition to further discussion about the algorithm.
 
 ## Installation
 
