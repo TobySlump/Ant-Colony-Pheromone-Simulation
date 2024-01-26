@@ -5,9 +5,9 @@ The python file - 'Ant Colony Optimisation.py' is a runnable program that output
 
 ## Installation
 
-The packages xmltodict and numpy are used in this program, if not already installed, run the commands:
-pip install xmltodict
-pip install numpy
+The packages xmltodict and numpy are used in this program, if not already installed, run the commands: <br>
+pip install xmltodict <br>
+pip install numpy <br>
 to install the correct packages.
 
 ## Configuration
